@@ -1,10 +1,10 @@
-#Latihan1
+# Latihan1
 
-#pengertian vcs
+## pengertian vcs
 
   Version Control (Kontrol Versi) (juga dikenal sebagai kontrol revisi atau kontrol sumber) adalah kategori proses dan alat yang dirancang untuk melacak berbagai versi perangkat lunak, konten, dokumen, Website, dan informasi lain dalam pengembangan yang berbeda. Sistem apa pun yang menyediakan pelacakan perubahan dan kontrol atas kode sumber pemrograman dan dokumentasi dapat dianggap sebagai perangkat lunak Version Control (Kontrol Versi).
 
-#langkah-langkah menggunakan git
+## langkah-langkah menggunakan git
 
 1.Buka software “Git Bash”
 
